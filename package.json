@@ -64,6 +64,7 @@
     "polished": "^3.3.2",
     "prettier": "^1.17.0",
     "qs": "^6.9.4",
+    "quickswap-sdk": "^3.0.8",
     "react": "^16.13.1",
     "react-confetti": "^6.0.0",
     "react-device-detect": "^1.6.2",
@@ -122,6 +123,7 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@uniswap/default-token-list": "^2.0.0"
+    "@uniswap/default-token-list": "^2.0.0",
+    "quickswap-default-token-list": "^1.0.54"
   }
 }
